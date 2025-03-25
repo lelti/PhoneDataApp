@@ -133,14 +133,6 @@ _Happy to answer any questions or go into specific parts in more detail!_
 
 ---
 
-## ✅ **Final Notes:**
-- Speak **slowly and clearly**  
-- Pause naturally after sections and **ask if they want more detail**  
-- Stay humble — highlight learnings, not just the code  
-- Keep tying everything back to the **AI data extraction goal**
-
----
-
 ### **Challenges Encountered**
 
 1. **Setting Up Android Studio and Project Setup:**
